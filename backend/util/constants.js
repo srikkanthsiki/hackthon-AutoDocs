@@ -5,14 +5,25 @@ document DOC1 and DOC2 are document reference number coming from ui
 
 */
 
+
 const docContants = {
+    "TemplatePath":'/home/ec2-user/environment/hackthon-AutoDocs/template/',
+   "OutputPath":'/home/ec2-user/environment/hackthon-AutoDocs/output/',
+    "doc1":'cre_commitment_letter.docx',
+   "doc2":'test1.docx',
+    "outDoc1":'cre_commitment_letter_out.docx',
+    "outDoc2":'test1_out.docx'
+}
+
+/*const docContants = {
+
     "TemplatePath":'C:/work/hackaton/eagle-appdocs-backend/template/',
    "OutputPath":'C:/work/hackaton/eagle-appdocs-backend/Output/',
     "doc1":'cre_commitment_letter_v3.docx',
    "doc2":'Res_ACP_Commitment_Ltr.docx',
     "outDoc1":'cre_commitment_letter_out_v3.docx',
     "outDoc2":'test1_out.docx'
-}
+}*/
 
 const OpenDBinfo1 =
 [
