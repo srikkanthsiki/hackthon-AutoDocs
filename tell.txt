@@ -1,0 +1,15 @@
+8) autocomplete mutilple forms at the same time 
+9)eleimnates manual error 
+10) no infinite scrolling of pages to fill information
+11) no searching thru mutiple data source and collect information
+12)Stop redundant, manual data entry: You have already taken the time to input the information into AbacusLaw, why waste time inputting the same data into another program?
+13)Reduce errors: AbacusLaw eliminates the chance of mistakes by automatically filling out your court forms using the information in your existing database.
+14) work on mutiple forms simultaniesly 
+
+1) publishing in aws-frb market place
+2) scaled and used across Line of Business
+3) sharing documents via email, sahving it in onbase
+4) Natural language processing 
+5) easily classify the records and put in structure tree in onbase
+6) optical character recognizion and auto fill information ( hand written documents can be filled )
+7) the information in the form is encryption and password protected 
