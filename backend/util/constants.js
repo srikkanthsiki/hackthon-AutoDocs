@@ -9,10 +9,11 @@ document DOC1 and DOC2 are document reference number coming from ui
 const docContants = {
     "TemplatePath":'/home/ec2-user/environment/hackthon-AutoDocs/template/',
    "OutputPath":'/home/ec2-user/environment/hackthon-AutoDocs/output/',
-    "doc1":'cre_commitment_letter.docx',
-   "doc2":'test1.docx',
+    "doc1":'cre_commitment_letter_v3.docx',
+   "doc2":'Res_ACP_Commitment_Ltr.docx',
     "outDoc1":'cre_commitment_letter_out.docx',
-    "outDoc2":'test1_out.docx'
+    "outDoc2":'test1_out.docx',
+    "s3linkpath":'https://lending-transformers.s3.us-east-2.amazonaws.com/'
 }
 
 /*const docContants = {

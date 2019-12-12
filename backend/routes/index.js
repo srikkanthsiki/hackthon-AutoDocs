@@ -7,7 +7,7 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'Express' });
 });
 
-router.get('/autodocsget',selecttemplate.posttosend,selecttemplate.mapTemplate,selecttemplate.uploadtos3,(req,res)=>res.send(req.output));
+router.get('/autodocsget',selecttemplate.posttosend,selecttemplate.mapTemplate,selecttemplate.uploadtos3,(req,res)=>res.send(req.s3link));
 
 router.post('/autodocs',selecttemplate.mapTemplate,function(req,res,error){res.send("completed")});
 
