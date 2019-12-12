@@ -5,9 +5,10 @@ document DOC1 and DOC2 are document reference number coming from ui
 
 */
 
+
 const docContants = {
-    "TemplatePath":'C:/work/hackaton/eagle-appdocs-backend/template/',
-   "OutputPath":'C:/work/hackaton/eagle-appdocs-backend/Output/',
+    "TemplatePath":'/home/ec2-user/environment/hackthon-AutoDocs/template/',
+   "OutputPath":'/home/ec2-user/environment/hackthon-AutoDocs/output/',
     "doc1":'cre_commitment_letter.docx',
    "doc2":'test1.docx',
     "outDoc1":'cre_commitment_letter_out.docx',
